@@ -1,0 +1,6 @@
+Filamento:
+Rojo x2
+Verde x1
+Blanco x5
+Negro x3
+Nozzel x2
